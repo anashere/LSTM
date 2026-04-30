@@ -97,9 +97,3 @@ The model successfully performs multi-output prediction.
 It captures price trends well but performs lower on highly volatile features like volume and trades.
 
 ---
-
-## How to Run
-
-Install required libraries:
-```bash
-pip install pandas numpy matplotlib scikit-learn torch
