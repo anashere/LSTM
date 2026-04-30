@@ -1,6 +1,5 @@
 # Time Series Forecasting using LSTM (PyTorch)
 
-## Student Details
 - Name: Muhammed Anas Ali P Y  
 - Roll No: 25MAM030  
 
@@ -15,9 +14,6 @@ The model uses past **20 days of stock data** to predict the **next 5 days of al
 ## Dataset
 - Dataset: NIFTY-50 Stock Market Data  
 - File used: **LT.csv (Larsen & Toubro)**  
-- Selected based on roll number  
-
-The dataset contains historical stock price and trading data from 2000 to 2021.
 
 ---
 
